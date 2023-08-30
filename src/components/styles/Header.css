@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  background-color: rgb(193, 193, 108);
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+svg {
+  font-size: 2rem;
+}
